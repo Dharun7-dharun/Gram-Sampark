@@ -33,12 +33,12 @@ import {
 
 // TODO: Replace with your actual Firebase project config
 const firebaseConfig = {
-    apiKey: "AIzaSyD_wuR44KHN1fa_jXpHunL-BhmMGvBDTBM",
+    apiKey: "",
     authDomain: "gram-sampark-d5cb8.firebaseapp.com",
     projectId: "gram-sampark-d5cb8",
     storageBucket: "gram-sampark-d5cb8.firebasestorage.app",
-    messagingSenderId: "10325008019",
-    appId: "1:10325008019:web:26f635ed4b84f7beb57766"
+    messagingSenderId: "10325",
+ appId: "1:10325008019:web:26f"
 };
 
 const app = initializeApp(firebaseConfig);
